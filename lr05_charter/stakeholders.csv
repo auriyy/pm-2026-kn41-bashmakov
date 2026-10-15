@@ -1,1 +1,7 @@
 stakeholder_id,name_or_role,organization,interest,influence,attitude,strategy,owner
+ST-01,Представник навчального відділу,Замовник,high,high,supporter,manage_closely,PM
+ST-02,Відповідальний за ІТ-інфраструктуру та інформаційну безпеку,ІТ-відділ,low,high,neutral,keep_satisfied,PM
+ST-03,Диспетчери корпусів,Операційні користувачі,high,low,blocker,keep_informed,PM
+ST-04,Викладачі,Користувачі сервісу,high,low,supporter,keep_informed,Dev
+ST-05,Студенти,Користувачі сервісу,low,low,neutral,monitor,Dev
+ST-06,Відповідальний за обладнання,Господарська/технічна служба,high,high,supporter,manage_closely,PM
